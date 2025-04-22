@@ -1,6 +1,9 @@
 # Compiled class file
 *.class
 
+# ide
+.idea/workspace.xml
+
 # Log file
 *.log
 
